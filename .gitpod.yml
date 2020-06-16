@@ -1,0 +1,7 @@
+image:
+  file: Dockerfile
+vscode:
+  extensions:
+    - puppet.puppet-vscode@0.27.1:8qhUgr/bXi6T0Ola4IdU2Q==
+tasks:
+  - command: puppet apply hello.pp
